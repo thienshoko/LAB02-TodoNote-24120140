@@ -63,4 +63,4 @@ Giao diện sẽ tự động mở trên trình duyệt tại: http://localhost:
 
 4. Hỗ trợ thay đổi trạng thái (pending, in-progress, completed) và chỉnh sửa thời gian trực tiếp trên giao diện.
 
-Video Demo: 
+Video Demo: https://drive.google.com/file/d/1HfDdHLIIFzIB-R_0BbVdSPeyhnc4bwvH/view?usp=sharing
